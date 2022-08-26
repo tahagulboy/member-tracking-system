@@ -1,18 +1,18 @@
 <!DOCTYPE html>
 <html lang="tr">
 <head>
-    <?php include("statik/ayarlar.php"); ?>
+    <?php include("../statik/ayarlar.php"); ?>
     <title><?php echo($yonetim["DernekAdı"] . " Giriş Sistemi"); ?></title>
-    <?php include("statik/head.php"); ?>
-    <link rel="stylesheet" href="/../kaynaklar/giris.css">
+    <?php include("../statik/head.php"); ?>
+    <link rel="stylesheet" href="../kaynaklar/giris.css">
 </head>
 <body class="text-center">
 <main class="form-signin w-100 m-auto">
     <h1 class="h3 mb-3 fw-normal"><?php echo($yonetim["DernekAdı"] . " Giriş Sistemi") ?></h1>
     <form name="f1" action = "dogrulama.php" method = "POST">  
         <div class="form-floating">
-            <label for="user">Kullanıcı Adı</label>
-            <input type="text" class="form-control" id="user" name="user">
+            <label for="user">TC Kimlik</label>
+            <input type="text" class="form-control" id="user" name="tc">
         </div>
         <div class="form-floating">
             <label for="user">Şifre</label>
@@ -27,7 +27,7 @@
             <br>
             <br>
             <label>
-                <a href="uye-paneli/index.php">Üye Girişi Yapmak İçin Tıkla</a>
+                <a href="../index.php">Yönetici Girişi Yapmak İçin Tıkla</a>
             </label>
     </form> 
     <p class="mt-5 mb-3 text-muted">&copy; <?php echo($yonetim["DernekAdı"]); ?> 2022</p>
