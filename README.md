@@ -1,6 +1,4 @@
-# dernek-uye-takip-sistemi
-
-Dernek Yönetim Sistemi
+# dernek yönetim sistemi
 
 Yaz stajımda geliştirdiğim bir projedir, eksikleri mevcuttur.
 
