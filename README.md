@@ -17,7 +17,7 @@ Yönetici Paneli Özellikleri
 
 Üye Paneli Özellikleri
 
-- Kişisel Bilgilerini Düzenleme
+- Kişisel Bilgilerini Görüntüleme, Düzenleme
 - Aidat Bilgilerini Görüntüleme
 - Bağış Bilgilerini Görüntüleme
 
