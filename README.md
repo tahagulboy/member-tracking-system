@@ -1,6 +1,6 @@
 # dernek-uye-takip-sistemi
 
-Dernek Üye Takip Sistemi
+Dernek Yönetim Sistemi
 
 Yaz stajımda geliştirdiğim bir projedir, eksikleri mevcuttur.
 
