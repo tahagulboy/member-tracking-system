@@ -1,4 +1,4 @@
-# dernek yönetim sistemi
+#dernek-yonetim-sistemi
 
 Yaz stajımda geliştirdiğim bir projedir, eksikleri mevcuttur.
 
