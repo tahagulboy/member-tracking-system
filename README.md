@@ -7,7 +7,7 @@ Sistem Özellikleri
 - Yönetici ve Üye Girişi
 - Site İçi Arama Motoru
 
-Yönetici Paneline Özel
+Yönetici Paneli Özellikleri
 - İstatistikler Paneli
 - Üye Ekleme, Düzenleme, Silme
 - Aidat Ekleme, Düzenleme, Silme
@@ -15,7 +15,7 @@ Yönetici Paneline Özel
 - Bağış Ekleme, Düzenleme, Silme
 - Yönetici Bilgilerini Düzenleme
 
-Üye Paneline Özel
+Üye Paneli Özellikleri
 
 - Kişisel Bilgileri Düzenleme
 - Aidat Bilgilerini Görüntüleme
