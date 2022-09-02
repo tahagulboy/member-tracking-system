@@ -7,6 +7,7 @@ Yaz stajımda geliştirdiğim bir projedir, eksikleri mevcuttur.
 Özellikleri
 
 -Yönetici ve Üye Girişi
+
 -Yönetici ve Üyelere Özel Panel
 -İstatistikler Paneli
 -Üye Ekleme, Düzenleme, Silme
