@@ -1,7 +1,5 @@
 # dernek-yonetim-sistemi
 
-Yaz stajımda geliştirdiğim bir projedir, eksikleri mevcuttur.
-
 Sistem Özellikleri
 
 - Yönetici ve Üye Girişi
@@ -17,7 +15,7 @@ Yönetici Paneli Özellikleri
 
 Üye Paneli Özellikleri
 
-- Kişisel Bilgilerini Düzenleme
+- Kişisel Bilgilerini Görüntüleme, Düzenleme
 - Aidat Bilgilerini Görüntüleme
 - Bağış Bilgilerini Görüntüleme
 
