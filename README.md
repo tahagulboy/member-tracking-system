@@ -1,4 +1,4 @@
-# dernek-yonetim-sistemi
+# member-tracking-system
 
 Sistem Özellikleri
 
