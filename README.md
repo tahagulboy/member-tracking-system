@@ -25,10 +25,10 @@ Yönetici Paneli Özellikleri
   
 Kullanılan Teknolojiler:
 
-HTML/CSS
-Bootstrap
-PHP
-MYSQL (veritabanı)
+- HTML/CSS
+- Bootstrap
+- PHP
+- MYSQL (veritabanı)
 
 Kurulum:
 1) Tüm dosyaları indirin ve sunucunuza yükleyin.
@@ -62,10 +62,10 @@ Features of the Member Panel
  
 Technologies Used:
 
-HTML/CSS
-Bootstrap
-PHP
-MYSQL (database)
+- HTML/CSS
+- Bootstrap
+- PHP
+- MYSQL (database)
 
 Setup:
 1) Download all the files and upload them to your server.
