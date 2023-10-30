@@ -1,5 +1,12 @@
 # member-tracking-system
 
+Proje Adı: Üye Takip Sistemi
+
+Açıklama:
+Bu GitHub projesi, temel bir blog uygulamasını oluşturmak için kullanılan bir örnek projedir. Projede, kullanıcılar bir hesap oluşturabilir, blog gönderileri ekleyebilir, gönderilere yorum yapabilir ve daha fazlasını yapabilirler. Bu projeyi kullanarak, web geliştirme becerilerinizi geliştirebilir ve bir blog uygulaması oluşturmanın temel adımlarını öğrenebilirsiniz.
+
+Özellikler:
+
 Sistem Özellikleri
 
 - Yönetici ve Üye Girişi
@@ -18,9 +25,15 @@ Yönetici Paneli Özellikleri
 - Kişisel Bilgilerini Görüntüleme, Düzenleme
 - Aidat Bilgilerini Görüntüleme
 - Bağış Bilgilerini Görüntüleme
+  
+Kullanılan Teknolojiler:
 
-Kurulumu
+HTML/CSS
+Bootstrap
+PHP
+MYSQL (veritabanı)
 
+Kurulum:
 1) Tüm dosyaları indirin ve sunucunuza yükleyin.
 2) Yedekler klasöründeki veritabanını mysql sunucunuzun içine aktarın.
 3) Statik klasöründeki ayarlar.php dosyasında veritabanı bilgilerinizi düzenleyin.
