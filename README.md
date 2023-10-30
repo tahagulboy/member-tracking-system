@@ -1,13 +1,9 @@
 # member-tracking-system
 
 Proje Adı: Üye Takip Sistemi
-
-Açıklama:
-Bu GitHub projesi, temel bir blog uygulamasını oluşturmak için kullanılan bir örnek projedir. Projede, kullanıcılar bir hesap oluşturabilir, blog gönderileri ekleyebilir, gönderilere yorum yapabilir ve daha fazlasını yapabilirler. Bu projeyi kullanarak, web geliştirme becerilerinizi geliştirebilir ve bir blog uygulaması oluşturmanın temel adımlarını öğrenebilirsiniz.
+Açıklama: Staj sürecimde geliştirdiğim bir projedir, dernek gibi kuruluşların üye takip ihtiyacını karşılamak amacıyla oluşturulmuştur.
 
 Özellikler:
-
-Sistem Özellikleri
 
 - Yönetici ve Üye Girişi
 - Site İçi Arama Motoru
