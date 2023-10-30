@@ -1,6 +1,7 @@
 # member-tracking-system
 
 Proje Adı: Üye Takip Sistemi
+
 Açıklama: Staj sürecimde geliştirdiğim bir projedir, dernek gibi kuruluşların üye takip ihtiyacını karşılamak amacıyla oluşturulmuştur.
 
 Özellikler:
