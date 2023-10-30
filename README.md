@@ -37,6 +37,43 @@ Kurulum:
 
 Kurulum bu kadar.
 
+Project Name: Member Tracking System
+
+Explanation: This is a project that I developed during my internship, it was created to meet the member tracking needs of organizations such as the association.
+
+Features:
+
+- Administrator and Member Login
+- On-Site Search Engine Decryption
+
+Features of the Admin Panel
+- Statistics Panel
+- Adding, Editing, Deleting Members
+- Adding, Editing, Deleting Dues
+- Adding, Editing, Deleting Debt
+- Adding, Editing, Deleting Donations
+- Editing Administrator Information
+
+Features of the Member Panel
+
+- Viewing, Editing Personal Information
+- View the Dues Information
+- View Donation Information
+ 
+Technologies Used:
+
+HTML/CSS
+Bootstrap
+PHP
+MYSQL (database)
+
+Setup:
+1) Download all the files and upload them to your server.
+2) Transfer the database in the backups folder to your mysql server.
+3) Settings in the static folder.edit your database information in a php file.
+
+That's the setup.
+
 Projeden Resimler
 
 ![alt text](https://i.hizliresim.com/j1ocm7v.png)
