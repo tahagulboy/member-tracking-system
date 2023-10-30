@@ -1,5 +1,6 @@
 # member-tracking-system
 
+[turkish]
 Proje Adı: Üye Takip Sistemi
 
 Açıklama: Staj sürecimde geliştirdiğim bir projedir, dernek gibi kuruluşların üye takip ihtiyacını karşılamak amacıyla oluşturulmuştur.
@@ -37,6 +38,7 @@ Kurulum:
 
 Kurulum bu kadar.
 
+[english]
 Project Name: Member Tracking System
 
 Explanation: This is a project that I developed during my internship, it was created to meet the member tracking needs of organizations such as the association.
